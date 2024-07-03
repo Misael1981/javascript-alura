@@ -61,6 +61,8 @@ Esta formação é indicada para quem está começando agora em programação e 
 
   - [Exercícios](funcoes/exercicios-funcoes.js)
 
+## [Arrays](./arrays/arrays.md)
+
 
 
 
