@@ -63,6 +63,8 @@ Esta formação é indicada para quem está começando agora em programação e 
 
 ## [Arrays](./arrays/arrays.md)
 
+## [Objetos](./objetos/objetos.md)
+
 
 
 
