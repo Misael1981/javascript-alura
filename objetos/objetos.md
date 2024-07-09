@@ -52,11 +52,15 @@ Objetos são ferramentas essenciais para qualquer desenvolvedor JavaScript. Domi
 
 ## Introdução
 
-- [Exercícios](../objetos/introducao/exercicios.js)
+- [Exercícios 01](../objetos/introducao/exercicios.js)
 
 - [Exercícios 02](../objetos/introducao/exercicios-02.js)
 
-- [exercício 03](../objetos/introducao/exercicios-03.js)
+- [Exercício 03](../objetos/introducao/exercicios-03.js)
+
+- [Exercícios 04](../objetos/introducao/exercicios-04.js)
+
+- [Exercícios 05](../objetos/introducao/exercicios-05.js)
 
 - [Cópia vs Referência em objetos](../objetos/introducao/copia-vs-referencia.md)
 
@@ -75,3 +79,11 @@ Objetos são ferramentas essenciais para qualquer desenvolvedor JavaScript. Domi
 - [Propriedades Enumeráveis](../objetos/introducao/propriedades-enumeraveis.md)
 
 - [Operador de espalhamento](../objetos/introducao/operador-espalhamento.md)
+
+- [APIs e HTTP](../objetos/introducao/API-HTTP.md)
+
+- [Formato JSON](../objetos/introducao/JSON.md)
+
+- [Importação e require](../objetos/introducao/importacao-require.md)
+
+- [Cópia de objetos](../objetos/introducao/copia-de-objetos.md)

@@ -1,0 +1,47 @@
+
+{
+    "serie": "Os Simpsons",
+    "genero": "Comédia, Sátira",
+    "criador": "Matt Groening",
+    "emissora": "Fox",
+    "episodios": 757,
+    "temporadas": 35, 
+    "primeira_exibicao": "1989",
+    "ultima_exibicao": "Presente", 
+    "elenco_principal": [
+      {
+        "nome": "Homer Jay Simpson",
+        "dublador": "Dan Castellaneta"
+      },
+      {
+        "nome": "Marge",
+        "dubladora": "Julie Kavner"
+      },
+      {
+        "nome": "Bart",
+        "dublador": "Nancy Cartwright"
+      },
+      {
+        "nome": "Lisa Marie Simpson",
+        "dubladora": "Yeardley Smith"
+      },
+      {
+        "nome": "Maggie",
+        "dubladora": "Nancy Cartwright"
+      }
+    ],
+    "curiosidades": [
+      "É a série de animação americana mais duradoura da história.",
+      "Ganhou 35 prêmios Emmy, incluindo o de Melhor Série de Animação.",
+      "Foi traduzida para mais de 20 idiomas.",
+      "Possui uma estrela na Calçada da Fama de Hollywood.",
+      "É considerada um dos programas de televisão mais influentes de todos os tempos."
+    ]
+}
+
+
+
+
+
+
+
