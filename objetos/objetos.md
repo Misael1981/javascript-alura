@@ -87,3 +87,7 @@ Objetos são ferramentas essenciais para qualquer desenvolvedor JavaScript. Domi
 - [Importação e require](../objetos/introducao/importacao-require.md)
 
 - [Cópia de objetos](../objetos/introducao/copia-de-objetos.md)
+
+- [Operações em objetos](../objetos/introducao/operacoes-objetos.md)
+
+- [hasOwnProperty()](../objetos/introducao/hasOwnProperty.md)
